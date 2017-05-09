@@ -15,7 +15,7 @@
 项目是用oc开发的，后台是用了Bomb云服务器
 
 ## 五 gif介绍
-![image](https://github.com/ChenZeBin/myGif/blob/master/%E8%AE%B0%E5%BF%86+.gif?raw=true)   
+![image](https://github.com/ChenZeBin/pushNeed/blob/master/gif/memoryGif.gif?raw=true)   
 
 ## 六 截图介绍
 1.登录
