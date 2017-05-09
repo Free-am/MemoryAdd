@@ -18,22 +18,30 @@
 ![image](https://github.com/ChenZeBin/myGif/blob/master/%E8%AE%B0%E5%BF%86+.gif?raw=true)   
 
 ## 六 截图介绍
-1.首页
-![image](http://img.blog.csdn.net/20170509225819018?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvY3piX0NvcmJpbg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+1.登录
 
-2.笔记页面选择类别
+![image](https://github.com/ChenZeBin/pushNeed/blob/master/%E5%9B%BE%E7%89%87/%E7%99%BB%E5%BD%95.png?raw=true)
+
+2.首页
+![image](https://github.com/ChenZeBin/pushNeed/blob/master/%E5%9B%BE%E7%89%87/%E9%A6%96%E9%A1%B5.png?raw=true)
+
+3.设置
+
+![image](https://github.com/ChenZeBin/pushNeed/blob/master/%E5%9B%BE%E7%89%87/%E8%AE%BE%E7%BD%AE.png?raw=true)
+
+4.笔记页面选择类别
 
 
-![这里写图片描述](http://img.blog.csdn.net/20170509225844768?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvY3piX0NvcmJpbg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![image](https://github.com/ChenZeBin/pushNeed/blob/master/%E5%9B%BE%E7%89%87/%E7%AC%94%E8%AE%B0%E9%80%89%E6%8B%A9%E7%B1%BB%E5%88%AB.png?raw=true)
 
-3.笔记类别
-![这里写图片描述](http://img.blog.csdn.net/20170509225858878?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvY3piX0NvcmJpbg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+5.笔记类别
+![image](https://github.com/ChenZeBin/pushNeed/blob/master/%E5%9B%BE%E7%89%87/%E7%AC%94%E8%AE%B0%E5%88%86%E7%B1%BB.png?raw=true)
 
-4.记账页面
-![这里写图片描述](http://img.blog.csdn.net/20170509225915363?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvY3piX0NvcmJpbg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+6.记账页面
+![这里写图片描述](https://github.com/ChenZeBin/pushNeed/blob/master/%E5%9B%BE%E7%89%87/%E8%AE%B0%E8%B4%A6.png?raw=true)
 
-5.倒计日
-![这里写图片描述](http://img.blog.csdn.net/20170509225925904?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvY3piX0NvcmJpbg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+7.倒计日
+![这里写图片描述](https://github.com/ChenZeBin/pushNeed/blob/master/%E5%9B%BE%E7%89%87/%E5%80%92%E8%AE%A1%E6%97%A5.png?raw=true)
 
 ## 七 后台介绍
 ![image](http://img.blog.csdn.net/20170509225333203?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvY3piX0NvcmJpbg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
