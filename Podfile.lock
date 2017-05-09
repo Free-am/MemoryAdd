@@ -1,0 +1,63 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - BmobSDK (1.6.9)
+  - Masonry (1.0.2)
+  - PNChart (0.8.9):
+    - UICountingLabel (~> 1.2.0)
+  - ShareSDK3 (3.1.9):
+    - ShareSDK3/ShareSDK (= 3.1.9)
+  - ShareSDK3/ShareSDK (3.1.9)
+  - ShareSDK3/ShareSDKPlatforms/QQ (3.1.9)
+  - ShareSDK3/ShareSDKPlatforms/SinaWeibo (3.1.9)
+  - ShareSDK3/ShareSDKPlatforms/WeChat (3.1.9)
+  - ShareSDK3/ShareSDKUI (3.1.9)
+  - SwipeTableView (0.2.6)
+  - TYAttributedLabel (2.6.2)
+  - UICountingLabel (1.2.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.6.3)
+  - BmobSDK (~> 1.6.6)
+  - Masonry (~> 1.0.2)
+  - PNChart (~> 0.8.9)
+  - ShareSDK3 (~> 3.1.7)
+  - ShareSDK3/ShareSDKPlatforms/QQ
+  - ShareSDK3/ShareSDKPlatforms/SinaWeibo
+  - ShareSDK3/ShareSDKPlatforms/WeChat
+  - ShareSDK3/ShareSDKUI
+  - SwipeTableView (~> 0.2.5)
+  - TYAttributedLabel (~> 2.6.2)
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  BmobSDK: 448108f71e28947d0752cd81e242bb685a3ef6ca
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  PNChart: 84774d225c2126ded6c93d4dbe6ae98c3a73c2d2
+  ShareSDK3: ff0eabec9a9073bacb4ae13f7cf07ab7c7df7f0b
+  SwipeTableView: 67d8a2e6e18bd38c188fd4fabda0b278eaa08d2f
+  TYAttributedLabel: 1c1f1e7604043ba584e005d4fd3aee8a1a7a2020
+  UICountingLabel: 1db4e7d023e1762171eb226d6dff47a7a84f27aa
+
+PODFILE CHECKSUM: 51b40845b1ca777515fbd95c5829a6e7d64f6460
+
+COCOAPODS: 1.2.0.rc.1
